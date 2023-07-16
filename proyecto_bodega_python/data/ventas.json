@@ -1,0 +1,41 @@
+{
+    "data": [
+        {
+            "productos": [
+                {
+                    "id": "23214213",
+                    "nombre": "dasdfa",
+                    "cantidad": 12,
+                    "stockMin": 10,
+                    "stockMax": 100,
+                    "valorCompra": 23.0,
+                    "valorVenta": 46.0,
+                    "estado": false
+                },
+                {
+                    "id": "321432523",
+                    "nombre": "teres",
+                    "cantidad": 5,
+                    "stockMin": 1,
+                    "stockMax": 25,
+                    "valorCompra": 10.0,
+                    "valorVenta": 23.0,
+                    "estado": true
+                }
+            ],
+            "fecha": "3213123",
+            "id": "43242342",
+            "provedor": "",
+            "total": 299.0,
+            "cproducto": [
+                5,
+                3
+            ],
+            "cliente": {
+                "id": "camilo",
+                "nombre": "1242",
+                "email": "e"
+            }
+        }
+    ]
+}

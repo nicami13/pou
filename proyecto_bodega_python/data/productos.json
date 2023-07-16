@@ -1,0 +1,24 @@
+{
+    "data": [
+        {
+            "id": "23214213",
+            "nombre": "dasdfa",
+            "cantidad": 17,
+            "stockMin": 10,
+            "stockMax": 100,
+            "valorCompra": 23.0,
+            "valorVenta": 46.0,
+            "estado": false
+        },
+        {
+            "id": "321432523",
+            "nombre": "teres",
+            "cantidad": 8,
+            "stockMin": 1,
+            "stockMax": 25,
+            "valorCompra": 10.0,
+            "valorVenta": 23.0,
+            "estado": true
+        }
+    ]
+}

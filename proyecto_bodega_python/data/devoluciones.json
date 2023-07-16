@@ -1,0 +1,154 @@
+{
+    "data": [
+        {
+            "productos": [
+                {
+                    "id": "dasd",
+                    "nombre": "fads",
+                    "cantidad": 3,
+                    "stockMin": 54,
+                    "stockMax": 44,
+                    "valorCompra": 44.0,
+                    "valorVenta": 4.0,
+                    "estado": true
+                },
+                {
+                    "id": "dsa",
+                    "nombre": "geer",
+                    "cantidad": 1,
+                    "stockMin": 12.0,
+                    "stockMax": 12.0,
+                    "valorCompra": 32.0,
+                    "valorVenta": 45.0,
+                    "estado": false,
+                    "precio": 2.0
+                }
+            ],
+            "fecha": "21/05/2023",
+            "id": "",
+            "provedor": {
+                "id": "3454363453",
+                "nombre": "derek",
+                "email": "2321derek"
+            },
+            "total": 164.0
+        },
+        {
+            "data": [
+                {
+                    "productos": [
+                        {
+                            "id": "ads",
+                            "nombre": "rer",
+                            "cantidad": 32,
+                            "stockMin": 78,
+                            "stockMax": 788,
+                            "valorCompra": 56.0,
+                            "valorVenta": 45.0,
+                            "estado": false
+                        },
+                        {
+                            "id": "dasd",
+                            "nombre": "fads",
+                            "cantidad": 7,
+                            "stockMin": 54,
+                            "stockMax": 44,
+                            "valorCompra": 44.0,
+                            "valorVenta": 4.0,
+                            "estado": true
+                        }
+                    ],
+                    "fecha": "4565",
+                    "id": "67867856875",
+                    "provedor": {
+                        "id": "123124",
+                        "nombre": "caim",
+                        "email": "fersda"
+                    },
+                    "total": 2100.0
+                }
+            ]
+        },
+        {
+            "data": [
+                {
+                    "productos": [
+                        {
+                            "id": "321432523",
+                            "nombre": "teres",
+                            "cantidad": 13,
+                            "stockMin": 1,
+                            "stockMax": 25,
+                            "valorCompra": 10.0,
+                            "valorVenta": 23.0,
+                            "estado": true
+                        },
+                        {
+                            "id": "23214213",
+                            "nombre": "dasdfa",
+                            "cantidad": 51,
+                            "stockMin": 10,
+                            "stockMax": 100,
+                            "valorCompra": 23.0,
+                            "valorVenta": 46.0,
+                            "estado": false
+                        }
+                    ],
+                    "fecha": "3421413",
+                    "id": "5435324",
+                    "provedor": {
+                        "id": "123124",
+                        "nombre": "caim",
+                        "email": "fersda"
+                    },
+                    "total": 832.0,
+                    "cproducto": [
+                        5,
+                        34
+                    ]
+                }
+            ]
+        },
+        {
+            "data": [
+                {
+                    "productos": [
+                        {
+                            "id": "23214213",
+                            "nombre": "dasdfa",
+                            "cantidad": 12,
+                            "stockMin": 10,
+                            "stockMax": 100,
+                            "valorCompra": 23.0,
+                            "valorVenta": 46.0,
+                            "estado": false
+                        },
+                        {
+                            "id": "321432523",
+                            "nombre": "teres",
+                            "cantidad": 5,
+                            "stockMin": 1,
+                            "stockMax": 25,
+                            "valorCompra": 10.0,
+                            "valorVenta": 23.0,
+                            "estado": true
+                        }
+                    ],
+                    "fecha": "3213123",
+                    "id": "43242342",
+                    "provedor": "",
+                    "total": 299.0,
+                    "cproducto": [
+                        5,
+                        3
+                    ],
+                    "cliente": {
+                        "id": "camilo",
+                        "nombre": "1242",
+                        "email": "e"
+                    }
+                }
+            ]
+        }
+    ]
+}

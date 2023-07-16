@@ -1,0 +1,30 @@
+{
+    "data": [
+        {
+            "productos": [
+                {
+                    "id": "321432523",
+                    "nombre": "teres",
+                    "cantidad": 4,
+                    "stockMin": 1,
+                    "stockMax": 25,
+                    "valorCompra": 10.0,
+                    "valorVenta": 23.0,
+                    "estado": true
+                }
+            ],
+            "fecha": "423454",
+            "id": "4321421324",
+            "provedor": "",
+            "total": 46.0,
+            "cproducto": [
+                2
+            ],
+            "cliente": {
+                "id": "camilo",
+                "nombre": "1242",
+                "email": "e"
+            }
+        }
+    ]
+}
